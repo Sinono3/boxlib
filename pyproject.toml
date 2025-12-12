@@ -15,7 +15,6 @@ authors = [
 ]
 readme = "README.md"
 requires-python = ">=3.9"
-license = "MIT"
 
 
 dependencies = [
